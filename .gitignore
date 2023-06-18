@@ -1,0 +1,7 @@
+*.class
+.vscode/
+bin/
+.gitignore 以下を無視する
+拡張子がclassの
+ファイル
+.vscodeディレクトリ
